@@ -2,7 +2,7 @@
 
 - Bu proje, HTML, CSS ve JavaScript kullanılarak yapılmış bir e-ticaret sitesidir. Kullanıcılar, ürünleri sepete ekleyebilir, ürün miktarını artırabilir, azaltabilir ve toplam miktarı hesaplayabilir.
 
-#Proje Özellikleri
+# Proje Özellikleri
 
 - Sepete Ekleme: Ürünleri sepete eklemek için butonlar kullanılır.
 - Miktar Arttırma/Azaltma ve Silme : Sepetteki ürünlerin miktarını artırabilir, azaltabilirsiniz veya silebilirsiniz.
